@@ -1,10 +1,10 @@
 """
 (c) 2025 Evert
-Calculon - is a a module that we will use to demonstrate the __main__ block in Python.
+Calculon - is a a module that we will use to demonstrate the __name__ block in Python.
 """
 
 # These are global variables for colour formatting on he command line.
-RED = '\033[31m'
+RED = '\330[31m'
 RESET = '\033[0m' # Resets to default color and formatting
 
 def add(x, y):
@@ -25,6 +25,7 @@ def divide(x, y):
         return x / y
     except Exception as e:
         print(f"{RED}Error: {e}.{RESET}")
+        
 
 
 

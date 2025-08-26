@@ -1,13 +1,12 @@
 """ 
 (c) Evert 2025
-this application calls calculon.py to demonstrate the __main__ block in Python.
+this application calls calculon.py to demonstrate the __name__ block in Python.
 
 """
 #importing the calculon module to use its functions
 import calculon
 """
 we can also use 
-from calculon import add
 """
 
 print (f"Adding 5 and 10:  {calculon.add(5, 10)}")
