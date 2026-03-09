@@ -9,4 +9,6 @@ Some applications that are relevant to deivery of ICTPRG302
 ## Authors
 
 Contributors names and contact info
-Evert van Dijk
+
+Evert van Dijk 
+<Evert.vanDijk@srtafe.wa.edu.au>
