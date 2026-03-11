@@ -1,6 +1,6 @@
 # Files related to ICTPRG302
 
-Some applications that are relevant to deivery of ICTPRG302
+Some applications that are relevant to delivery of ICTPRG302
 
 ### Dependencies
 
